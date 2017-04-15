@@ -17,5 +17,5 @@ Configuration is currently controlled through environment variables:
 - `HOST` - host to crawl. Defaults to `http://localhost`
 - `PORT` - port to access on `$HOST`. Defaults to `3000`
 - `DESTINATION` - destination directory for snapshot build files. Defaults to `./build`
-- `NPM_EXECPATH` - `npm` exe to use when starting the Next.js server. Defaults to `npm`. Yarn will set this to `yarn` when runninng the script with YARN
+- `NPM_EXECPATH` - `npm` exe to use when starting the Next.js server. Defaults to `npm`. Yarn will set this to `yarn` when runninng the script with Yarn
 - `NPM_SCRIPT` - script to use when starting the Next.js server. Defaults to `start`
